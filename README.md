@@ -4,22 +4,7 @@
 <h2 align="center">System.out.println("Hello World !!");</h2>
 <img src="https://lh3.googleusercontent.com/pw/AL9nZEUVD9lDKzg6-S1OIxO4wLD4IPEnbGJfHOQfCJp_v1HTtGY50_LhnyXGqJXSQ2x-IEum1HsXXK7b18FLfKchSMOzcyiXFRac8HHQ2m6JMDtcEdza0PJWsQpm6KdaTgS0KRItAKghSrubnEjyPMc1dGbl=w1012-h386-no?authuser=0" width="1000" align="centre" marginLeft="100px" alt="" />
 
-<!-- 
- ```js
-import SoftwareDeveloper from 'India';
-class Bio extends SoftwareDeveloper {
-  name     = 'Krishna Chaturvedi';
-  title    = 'Software Engineer' || 'Full Stack Web Developer';
-  location = 'Uttar Pardesh, India';
-  availability = "Available to hire!!";
-}
-class Skills extends SoftwareDeveloper {
-  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
-  backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
-  ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', 'Bootstrap'];
-}
-```
--->
+
 <!-- https://github.com/MohdumaR125?tab=followers -->
 
 <!-- <img src="https://komarev.com/ghpvc/?username=krishnachaturvedi1901&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> -->
