@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm MOHD UMAR<img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
 <h4 align="center" margin="0px">A Passionate Full Stack Developer, Enthusiastic to learn new Technology and gain new skills with at most dedication for organizational and personal growth</h4>
 
-<h2 align="center">System.out.println("Hello World !!");</h2>
+<h2 align="center">console.log("Hello World !!");</h2>
 <img src="https://lh3.googleusercontent.com/pw/AL9nZEUVD9lDKzg6-S1OIxO4wLD4IPEnbGJfHOQfCJp_v1HTtGY50_LhnyXGqJXSQ2x-IEum1HsXXK7b18FLfKchSMOzcyiXFRac8HHQ2m6JMDtcEdza0PJWsQpm6KdaTgS0KRItAKghSrubnEjyPMc1dGbl=w1012-h386-no?authuser=0" width="1000" align="centre" marginLeft="100px" alt="" />
 
 
